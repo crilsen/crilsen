@@ -27,6 +27,7 @@ through hands-on labs and multi-cloud reference architectures.
 - Cloud Security / SecOps
 - Network Architecture
 - Linux
+- AIOps
 
 ## 🌐 Multi-Cloud
 
