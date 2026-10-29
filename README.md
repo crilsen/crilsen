@@ -1,6 +1,6 @@
 # Hi, I'm Cristiano 👋
 
-Senior Cloud & DevOps Engineer with 20+ years of experience in IT,
+Cloud, DevOps & Platform Specialist with 20+ years of experience in IT,
 with a strong background in infrastructure and network engineering.
 
 ## 🧰 Stacks
