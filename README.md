@@ -21,7 +21,7 @@ through hands-on labs and multi-cloud reference architectures.
 - AWS
 - Kubernetes / EKS
 - Terraform / Infrastructure as Code
-- DevOps & CI/CD
+- DevOps, CI/CD (GitHub, GitLab)
 - SRE & Observability
 - Platform Engineering
 - Cloud Security / SecOps
